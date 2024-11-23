@@ -1,4 +1,3 @@
-```markdown
 # Chat with PDF using AWS Bedrock
 
 This project allows you to interact with PDF documents through a chat interface powered by AWS Bedrock models. The application ingests PDF data, generates vector embeddings, stores them in a vector database, and retrieves answers using LLMs like Claude and Llama3.
