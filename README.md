@@ -67,4 +67,4 @@ streamlit run app.py
 - Ensure your AWS Bedrock account has access to the required models.
 - Modify the `model_id` in the code if newer model versions are available.
 - Make sure `boto3` is properly configured with appropriate permissions for the Bedrock service.
-```
+
